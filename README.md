@@ -31,41 +31,48 @@ Sub-Ringan Framework automatically arranges target files in a structured directo
 
 # Installation and Prerequisites for Sub-Ringan ⚜️ Framework:
 
-> Required 🛐 Dependencies:
+>> Required 🛐 Dependencies:
 
-gf: A powerful pattern-matching utility for extracting URLs and other useful information from web pages. 
+> gf: A powerful pattern-matching utility for extracting URLs and other useful information from web pages. 
+
 Install it from: https://github.com/tomnomnom/gf
 
-httpx: A fast and multi-purpose HTTP utility. 
+> httpx: A fast and multi-purpose HTTP utility. 
+
 Install it from: https://github.com/projectdiscovery/httpx
 
-tee: A command-line utility for redirecting output to multiple files. It's usually available by default on most Unix-like systems.
+> tee: A command-line utility for redirecting output to multiple files. It's usually available by default on most Unix-like systems.
 
 
-assetfinder: A tool to discover assets from a domain.
+> assetfinder: A tool to discover assets from a domain.
+
 Install it from: https://github.com/tomnomnom/assetfinder
 
-getallurls: A tool to fetch all URLs from a web page.
+> getallurls: A tool to fetch all URLs from a web page.
+
 Install it from: https://github.com/lc/gau
 
-waybackurls: A tool to fetch URLs from the Wayback Machine. 
+> waybackurls: A tool to fetch URLs from the Wayback Machine. 
+
 Install it from: https://github.com/tomnomnom/waybackurls
 
-gxss: A tool for finding XSS vulnerabilities. 
+> gxss: A tool for finding XSS vulnerabilities. 
+
 Install it from: https://github.com/KathanP19/Gxss
 
-anew: A tool for filtering and manipulating text output.
+> anew: A tool for filtering and manipulating text output.
+
 Install it from: https://github.com/tomnomnom/anew
 
 # Installation ✅ Steps:
 
-1. Clone the Sub-Ringan Framework repository from GitHub:
+###1. Clone the Sub-Ringan Framework repository from GitHub:
 
 '''
 git clone https://github.com/DevVj-1/Sub-Ringan-Framework.git
 
 '''
-2. Navigate to the Sub-Ringan Framework directory:
+###2. Navigate to the Sub-Ringan Framework directory:
 
 ,,,
 cd  Sub-Ringan Framework 
