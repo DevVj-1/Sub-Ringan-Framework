@@ -5,7 +5,7 @@ Tool for automatic bughunting process 🍭.
 
 Welcome to Sub-Ringan Framework, your all-in-one solution for efficient and automated bug hunting. Designed and crafted by a dedicated bug bounty hunter, this powerful tool streamlines the process of identifying vulnerabilities, enabling you to focus on what truly matters - uncovering critical issues.
 
-> Key Features:
+> Key Features 💀:
 
 > Subdomain Discovery:
 Quickly identify all subdomains associated with your target, providing you with a comprehensive overview.
@@ -64,6 +64,7 @@ Install it from: https://github.com/KathanP19/Gxss
 ```
 Install it from: https://github.com/tomnomnom/anew
 ```
+![Picsart_23-08-08_22-08-30-090](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/e048d639-2bb5-4818-a754-64b2165944c6)
 
 # Installation ✅ Steps:
 
