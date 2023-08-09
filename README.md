@@ -5,8 +5,10 @@ Tool for automatic bughunting process 🍭.
 
 Welcome to Sub-Ringan Framework, your all-in-one solution for efficient and automated bug hunting. Designed and crafted by a dedicated bug bounty hunter, this powerful tool streamlines the process of identifying vulnerabilities, enabling you to focus on what truly matters - uncovering critical issues.
 
->> Key Features:
-Subdomain Discovery: Quickly identify all subdomains associated with your target, providing you with a comprehensive overview.
+> Key Features:
+
+> Subdomain Discovery:
+Quickly identify all subdomains associated with your target, providing you with a comprehensive overview.
 
 > URL Finding:
 Find and then Scan live URLs for potential vulnerabilities, ensuring thorough coverage of your target's web presence.
@@ -26,3 +28,4 @@ Hunt for LFI vulnerabilities that could lead to unauthorized access to sensitive
 
 # Efficient Organization:
 Sub-Ringan Framework automatically arranges target files in a structured directory, enhancing your workflow and enabling seamless collaboration with fellow bug bounty hunters.
+
