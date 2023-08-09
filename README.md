@@ -77,8 +77,6 @@ git clone https://github.com/DevVj-1/Sub-Ringan-Framework.git
 ```
 cd  Sub-Ringan Framework 
 chmod +x Sub-Ringan.sh
-./ Sub-Ringan.sh
-or 
 sh Sub-Ringan.sh
 ```
 ### 3. Make sure all the required dependencies are installed and available in your system
