@@ -68,13 +68,12 @@ Install it from: https://github.com/tomnomnom/anew
 
 # Installation ✅ Steps:
 
-###1. Clone the Sub-Ringan Framework repository from GitHub:
+### 1. Clone the Sub-Ringan Framework repository from GitHub:
 
 ```
 git clone https://github.com/DevVj-1/Sub-Ringan-Framework.git
 ```
-###2. Navigate to the Sub-Ringan Framework directory:
-
+### 2. Navigate to the Sub-Ringan Framework directory:
 ```
 cd  Sub-Ringan Framework 
 chmod +x Sub-Ringan.sh
@@ -82,4 +81,4 @@ chmod +x Sub-Ringan.sh
 or 
 sh Sub-Ringan.sh
 ```
-> 3. Make sure all the required dependencies are installed and available in your system
+### 3. Make sure all the required dependencies are installed and available in your system
