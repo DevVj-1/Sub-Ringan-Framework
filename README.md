@@ -85,3 +85,16 @@ sh Sub-Ringan.sh
 
 [![YouTube Video](https://img.youtube.com/vi/19MVxXFJxwc/0.jpg)](https://www.youtube.com/watch?v=19MVxXFJxwc)
 
+> Interface 1 💧
+
+ ![kmc_20230810_133924](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/28457274-f181-4d73-be61-1570c5f3e17a)
+
+
+> Interface 2 🔥
+
+![kmc_20230810_133827](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/e3d4c193-5830-488b-b9cd-1b6d248d3a3d)
+
+
+> Interface 3 ☘️
+
+![kmc_20230810_133854](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/e169d552-3c1b-4848-8fce-b9d2b552cc25)
