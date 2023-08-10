@@ -83,5 +83,5 @@ sh Sub-Ringan.sh
 
 ##  Click on this Image to Watch YouTube Video
 
-[![YouTube Video](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/208507b3-44a7-42e4-85e8-273e4631f162)](https://www.youtube.com/watch?v=19MVxXFJxwc)
+[![YouTube Video](https://img.youtube.com/vi/19MVxXFJxwc/0.jpg)](https://www.youtube.com/watch?v=19MVxXFJxwc)
 
