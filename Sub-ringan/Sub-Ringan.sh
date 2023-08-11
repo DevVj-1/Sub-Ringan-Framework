@@ -416,7 +416,7 @@ echo "[*] X-Host:                (2)"
 echo "[*] Referer:               (3)"
 echo "[*] User-Agent:            (4)"
 echo "\033[0;31m-------------------------------------------------\033[1;33m "
-read -p "Please choose an one  Header (1-4): " header
+read -p "Please choose any one  Header (1-4): " header
 echo "\e[5;92m Finding Header base SQLi...\e[0m"
 case $header in
 1)
