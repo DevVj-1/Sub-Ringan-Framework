@@ -9,7 +9,7 @@ for arg in "$@"
 do
     case $arg in
         -h|--help)
-        echo "BugBountyHunter Dependency Installer"
+        echo "Sub-Ringan-Framework 🛐 Dependency Installer"
         echo " "
         echo "$0 [options]"
         echo " "
@@ -17,7 +17,7 @@ do
         echo "-h, --help                show brief help"
         echo "-t, --toolsdir            tools directory, defaults to '/opt'"
         echo ""
-        echo "Note: If you choose a non-default tools directory, please adapt the default in the BugBountyAutomator.sh file or pass the -t flag to ensure it finds the right tools."
+        echo "Note: If you choose a non-default tools directory, please adapt the default in the setup.sh file or pass the -t flag to ensure it finds the right tools."
         echo ""
         echo "example:"
         echo "$0 -t /opt"
