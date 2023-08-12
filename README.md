@@ -10,10 +10,10 @@ Welcome to Sub-Ringan Framework, your all-in-one solution for efficient and auto
 > Subdomain  Discovery from everywhere including many websites☁:
 Quickly identify all subdomains associated with your target, providing you with a comprehensive overview.
 
-> fetch every live🕷 URL from every assets,subs,webs-db 🕸:
+> fetch every live 🕷 URL from every assets,subs,webs-db 🕸:
 Find and then Scan live URLs for potential vulnerabilities, ensuring thorough coverage of your target's web presence.
 
-> XSS (Cross-Site Scripting) Detection with inbuild and customizable polygot payload 🦄: 
+> XSS (Cross-Site Scripting) Detection 👑 Reflected parameters with inbuild and customizable polygot payload 🦄: 
 Uncover XSS vulnerabilities that could compromise user data and application security.
 
 >  one and only header base SSRF (Server-Side Request Forgery) 🔎 Detection:
