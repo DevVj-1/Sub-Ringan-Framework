@@ -7,22 +7,22 @@ Welcome to Sub-Ringan Framework, your all-in-one solution for efficient and auto
 
 > Key Features 💀:
 
-> Subdomain Discovery:
+> Subdomain  Discovery from everywhere including many websites☁:
 Quickly identify all subdomains associated with your target, providing you with a comprehensive overview.
 
-> URL Finding:
+> fetch every live🕷 URL from every assets,subs,webs-db 🕸:
 Find and then Scan live URLs for potential vulnerabilities, ensuring thorough coverage of your target's web presence.
 
-> XSS (Cross-Site Scripting) Detection: 
+> XSS (Cross-Site Scripting) Detection with inbuild and customizable polygot payload 🦄: 
 Uncover XSS vulnerabilities that could compromise user data and application security.
 
-> SSRF (Server-Side Request Forgery) Detection:
+>  one and only header base SSRF (Server-Side Request Forgery) 🔎 Detection:
 Identify potential SSRF vulnerabilities that might lead to unauthorized data access.
 
-> SQLi (SQL Injection) Analysis:
+> SQLi ( time base , header base SQL Injection) Analysis 🌈:
 Detect SQL injection points and potential weaknesses in your target's database.
 
-> LFI (Local File Inclusion) Search:
+> LFI (Local File Inclusion) Search 👁:
 Hunt for LFI vulnerabilities that could lead to unauthorized access to sensitive files.
 
 
