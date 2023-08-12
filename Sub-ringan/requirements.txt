@@ -45,3 +45,23 @@ sh Sub-Ringan.sh
 ,,,
 
 > 3. Make sure all the required dependencies are installed and available in your system
+
+
+raised_hands Special Thanks to the Awesome Tools that Power Sub-Ringan Framework! raised_hands
+
+gf: Rohan Aggarwal (@rohank1337)
+httpx: Tom Hudson (@tomnomnom)
+getallurls: Tom Hudson (@tomnomnom)
+waybackurls: Tom Hudson (@tomnomnom)
+gxss: Tom Hudson (@tomnomnom)
+anew: Tom Hudson (@tomnomnom)
+sqlmap: Bernardo Damele A. G. (@MiroslavStampar)
+asset finder: Tom Hudson (@tomnomnom)
+amass: Jeff Foley (@caffix)
+subfinder: Ice3man (@Ice3man543)
+tee: It's a basic Unix command. No specific author.
+qsreplace: Tom Hudson (@tomnomnom)
+ffuf: Magnus Stubman (@ffuf)
+Kudos to these talented individuals for their invaluable contributions! 🌟
+
+Sub-Ringan-Framework: is not just relying on other tools – it brings some fresh techniques to the table, like header-based SSRF detection 🔍 and an inbuilt polyglot XSS payload. and detect time based⏳ SQL injection with temper bypass technique It's not just a wrapper for other programs.
