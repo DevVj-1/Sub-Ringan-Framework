@@ -98,3 +98,26 @@ sh Sub-Ringan.sh
 > Interface 3 ☘️
 
 ![kmc_20230810_133854](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/e169d552-3c1b-4848-8fce-b9d2b552cc25)
+
+🙌 Special Thanks to the Awesome Tools that Power Sub-Ringan Framework! 🙌
+
+- **gf**: Rohan Aggarwal (@rohank1337)
+- **httpx**: Tom Hudson (@tomnomnom)
+- **getallurls**: Tom Hudson (@tomnomnom)
+- **waybackurls**: Tom Hudson (@tomnomnom)
+- **gxss**: Tom Hudson (@tomnomnom)
+- **anew**: Tom Hudson (@tomnomnom)
+- **sqlmap**: Bernardo Damele A. G. (@MiroslavStampar)
+- **asset finder**: Tom Hudson (@tomnomnom)
+- **amass**: Jeff Foley (@caffix)
+- **subfinder**: Ice3man (@Ice3man543)
+- **tee**: It's a basic Unix command. No specific author.
+- **qsreplace**: Tom Hudson (@tomnomnom)
+- **ffuf**: Magnus Stubman (@ffuf)
+
+Kudos to these talented individuals for their invaluable contributions! 🌟
+
+- **Sub-Ringan-Framework**:  is  not just relying on other tools – it brings some fresh techniques to the table, like header-based SSRF detection 🔍 and an inbuilt polyglot XSS payload. 
+and detect time based⏳ SQL injection with temper bypass  technique
+It's not just a wrapper for other programs.
+
