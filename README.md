@@ -102,18 +102,11 @@ sh Sub-Ringan.sh
 🙌 Special Thanks to the Awesome Tools that Power Sub-Ringan Framework! 🙌
 
 - **gf**: Rohan Aggarwal (@rohank1337)
-- **httpx**: Tom Hudson (@tomnomnom)
-- **getallurls**: Tom Hudson (@tomnomnom)
-- **waybackurls**: Tom Hudson (@tomnomnom)
-- **gxss**: Tom Hudson (@tomnomnom)
-- **anew**: Tom Hudson (@tomnomnom)
 - **sqlmap**: Bernardo Damele A. G. (@MiroslavStampar)
-- **asset finder**: Tom Hudson (@tomnomnom)
 - **amass**: Jeff Foley (@caffix)
 - **subfinder**: Ice3man (@Ice3man543)
-- **tee**: It's a basic Unix command. No specific author.
-- **qsreplace**: Tom Hudson (@tomnomnom)
 - **ffuf**: Magnus Stubman (@ffuf)
+- **httpx**, **qsreplace**, **getallurls**, **waybackurls**, **gxss** ,**anew**, **asset finder** : Tom Hudson (@tomnomnom)
 
 Kudos to these talented individuals for their invaluable contributions! 🌟
 
