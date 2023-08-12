@@ -13,7 +13,7 @@ Quickly identify all subdomains associated with your target, providing you with 
 > Fetch every live 🕷 URL from every assets,subs,webs-db 🕸:
 Find and then Scan live URLs for potential vulnerabilities, ensuring thorough coverage of your target's web presence.
 
-> XSS (Cross-Site Scripting) Detection 👑 Reflected parameters with inbuild and customizable polygot payload 🦄: 
+> XSS (Cross-Site Scripting) Detection all 👑 Reflected parameters with inbuild and customizable polyglot payload 🦄: 
 Uncover XSS vulnerabilities that could compromise user data and application security.
 
 > One and only header base SSRF (Server-Side Request Forgery) 🔎 Detection:
