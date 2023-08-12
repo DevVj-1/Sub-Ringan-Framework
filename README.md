@@ -56,7 +56,7 @@ Install it from: https://github.com/lc/gau
 ```
 Install it from: https://github.com/tomnomnom/waybackurls
 ```
-> gxss: A tool for finding XSS vulnerabilities. 
+> gxss: A tool for finding reflected parameters. 
 ```
 Install it from: https://github.com/KathanP19/Gxss
 ```
