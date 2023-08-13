@@ -7,7 +7,7 @@ Welcome to Sub-Ringan Framework, your all-in-one solution for efficient and auto
 
 > Key Features 💀:
 
-> Subdomain  Discovery from everywhere including many websites☁:
+> Subdomain  Discovery from everywhere including many websites-db ☁:
 Quickly identify all subdomains associated with your target, providing you with a comprehensive overview.
 
 > Fetch every live 🕷 URL from every assets,subs,webs-db 🕸:
