@@ -29,7 +29,7 @@ Hunt for LFI vulnerabilities that could lead to unauthorized access to sensitive
 # Efficient Organization:
 Sub-Ringan Framework automatically arranges target files in a structured directory, enhancing your workflow and enabling seamless collaboration with fellow bug bounty hunters.
 
-# Installation and Prerequisites for Sub-Ringan ⚜️ Framework:
+# Installation and pre-requirements for Sub-Ringan ⚜️ Framework:
 
 >> Required 🛐 Dependencies:
 
