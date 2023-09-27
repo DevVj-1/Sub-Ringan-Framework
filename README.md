@@ -114,3 +114,6 @@ Kudos to these talented individuals for their invaluable contributions! 🌟
 and detect time based⏳ SQL injection with temper bypass  technique
 It's not just a wrapper for other programs.
 
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE.md) for details.
