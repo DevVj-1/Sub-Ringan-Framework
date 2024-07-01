@@ -155,7 +155,7 @@ echo "\033[1;33m[?]\033[1;33m Note:\033[1;35m Please note that,finding the URLs 
 echo "\033[1;35m "
   
 read -p "Enter domains.txt file: " find_url
-echo "Note:\033[2;33m Please Wait, Now Script running in --Silent mode! \n      all data found in url.txt file"
+echo "Note:\033[2;33m Please Wait, Now Script running in --Silent mode \n      all data found in url.txt file"
 echo ""
 echo "\e[5;92m Finding...\e[0m"
 cat $find_url | waybackurls | tee -a url1.txt 
