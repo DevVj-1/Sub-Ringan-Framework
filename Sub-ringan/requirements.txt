@@ -8,7 +8,7 @@ Install it from: https://github.com/tomnomnom/gf
 httpx: A fast and multi-purpose HTTP utility. 
 Install it from: https://github.com/projectdiscovery/httpx
 
-tee: A command-line utility for redirecting output to multiple files. It's usually available by default on most Unix-like systems.
+tee: A command-line utility for redirecting output to multiple files. It's usually available by default on most Unix-like systems!
 
 
 assetfinder: A tool to discover assets from a domain.
