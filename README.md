@@ -3,6 +3,9 @@ Tool for automate bughunting process 🍭.
 
 ![Picsart_23-08-08_22-03-01-814](https://github.com/DevVj-1/Sub-Ringan-Framework/assets/106962581/a00e8f43-2d20-43ea-922e-c8cc3da42fd7)
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevVj-1&label=👁%20views%20%20&color=0e75b6&style=flat" alt="DevVj-1" /> </p>
+
 by Dev Vijay CW-129 june 2024
 
 Presenting the Sub-Ringan Framework, a user-friendly bug hunting tool designed to automate the process of identifying vulnerabilities in web applications. This tool is created specifically for bug bounty hunters and cybersecurity experts, By automating much of the work, it allows testers to focus on uncovering critical vulnerabilities and improving web application security.
