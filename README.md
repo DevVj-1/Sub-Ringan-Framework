@@ -126,6 +126,8 @@ It's not just a wrapper for other programs.
 
 <img width="405" height="775" alt="image" src="https://github.com/user-attachments/assets/22f55e0e-7fd7-4d76-9640-7132b78b6380" />
 
+<img width="1916" height="940" alt="image" src="https://github.com/user-attachments/assets/0f881a52-7b65-4186-8427-04b32c3db991" />
+
 
 
 ## License
